@@ -1,0 +1,182 @@
+@media(max-width:520px){
+    
+    
+    
+    .nav-bar{
+        display: none;
+    }
+    
+    .nav-down h1{
+        font-size: 27px
+    }
+    
+    .nav-down h3{
+        font-size: 40px;
+    }
+    .nav-down p{
+        font-size: 8px;
+    }
+    
+    .featured-h1{
+        font-size: 27px;
+    }
+    .product-list li{
+        padding-left: 5px;
+    }
+    .product-list li a{
+        font-size: 9px;
+    }
+    
+    
+
+
+    .card-1{
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+    .card-2{
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+    .card-3{
+        max-width: 100%;
+         
+    }
+    
+    
+    .education-card-1{
+        max-width: 100%;
+        margin-bottom: 25px;
+    }
+    .education-card-2{
+        max-width: 100%;
+    }
+    .education-text{
+        display: none;
+    }
+
+    
+    .profile-picture{
+        max-width: 100%;
+    }
+    .bio{
+        max-width: 100%; 
+        margin-left: 15px;
+        margin-top: 37px;
+    }
+
+    .blog-section-1{
+        max-width: 100%;
+        margin-bottom: 35px;
+    }
+    .blog-section-2{
+        max-width: 100%;
+        margin-bottom: 35px;
+    }
+    .blog-section-3{
+        max-width: 100%;
+        margin-bottom: 35px;
+    }
+    .get-in-touch h1{
+        font-size: 25px;
+        margin-bottom: 45px;
+        margin-top: 35px;
+    }
+
+    .get-in-touch-1{
+        max-width: 50%;
+    }
+    .get-in-touch-2{
+        max-width: 100%;
+    }
+    .name{
+        width: 250px;
+    }
+    .number{
+        width: 250px;
+    }
+    .e-mail{
+        width: 250px;
+    }
+    textarea{
+        width: 250px;
+    }
+
+    .submit-btn{
+        padding: 10px 72px 10px 23px;
+    }
+    .copyright{
+        font-size:10px ;
+    }
+    .social-media{
+         
+    }
+
+
+     
+
+
+    .Client-Testimonial-1{
+        max-width: 100%;
+        margin-bottom:10px;
+        margin-top: 30px;
+
+    }
+
+    .Client-Testimonial-col-2 p{
+        line-height: 14px;
+        padding: 5px 3px 18px 50px;
+    }
+    .Client-Testimonial-col-02 h6{
+        font-size: 9px;
+        padding: 5px 3px 18px 50px;
+    }
+    .Client-Testimonial-2{
+        max-width: 100%;
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+    .Client-Testimonial-col-02 p{
+        line-height: 14px;
+        padding: 5px 3px 18px 50px;
+    }
+    .Client-Testimonial-col-2 h6{
+        font-size: 9px;
+        padding: 5px 3px 18px 50px;
+    }
+
+
+
+    .My-Services-card-1{
+        max-width: 100%;
+        margin-bottom: 25px;
+    }
+    .My-Services-card-2{
+        max-width: 100%;
+        margin-bottom: 25px;
+    }
+    .My-Services-card-3{
+        max-width: 100%;
+        margin-bottom: 25px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
