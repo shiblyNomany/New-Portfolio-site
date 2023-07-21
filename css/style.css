@@ -458,6 +458,7 @@ max-width:50%;
 .Client-Testimonial-col img{
 height: 50px;
 width: 50px;
+object-fit: cover;
 border-radius: 50%;
 
 }
@@ -556,6 +557,7 @@ max-width: 49%;
 .Client-Testimonial-col-01 img{
 height: 50px;
 width: 50px;
+object-fit: cover;
 border-radius: 50%;
 }
 .Client-Testimonial-col-02{
@@ -684,6 +686,7 @@ margin-left: 15px;
 color: #666666;
 height: auto;
 max-width: 30%;
+ 
  
 }
 .My-Services-card-3{
@@ -904,20 +907,20 @@ width: 100%;
 }
 
 .get-in-touch-1{
-max-width: 50%;
+max-width:70%  ;
 color:#666666;
-
+ 
 }
 
 .get-in-touch-2{
 color:#666666;
 padding-left: 5px;
-text-align: justify;
-max-width: 40%;
+text-align: start;
+max-width:25%;
 
 }
 .get-in-touch-2 p{
-padding: 15px;
+padding: 5px;
 font-size: 20px;
 letter-spacing: 1px;
 line-height: 35px;
@@ -990,12 +993,17 @@ text-transform: uppercase;
 display: flex;
 flex-wrap: wrap;
 justify-content: center;
-margin-top: 65px;
+margin-top:65px; 
 }
 .facebook{
 /* color:  #3b5998; */
 color: #bac964;
-padding:20px;
+display: inline-flex;
+ justify-content: center;
+ align-items: center;
+ height: 85px;
+ width: 85px;
+ text-decoration: none;
 border-radius: 50%;
 background-color: #333;
 font-size: 35px;
@@ -1005,7 +1013,12 @@ margin-left: 15px;
 
 .instagram{
 color: #bac964;
-padding:20px;
+ display: inline-flex;
+ justify-content: center;
+ align-items: center;
+ height: 85px;
+ width: 85px;
+ text-decoration: none;
 border-radius: 50%;
 background-color: #333;
 font-size: 35px;
@@ -1014,7 +1027,12 @@ margin-left: 15px;
 }
 .linkedin{
 color: #bac964;
-padding:20px;
+display: inline-flex;
+ justify-content: center;
+ align-items: center;
+ height: 85px;
+ width: 85px;
+ text-decoration: none;
 border-radius: 50%;
 background-color: #333;
 font-size: 35px;
@@ -1023,7 +1041,12 @@ margin-left: 15px;
 }
 .twitter{
 color: #bac964;
-padding:20px;
+display: inline-flex;
+ justify-content: center;
+ align-items: center;
+ height: 85px;
+ width: 85px;
+ text-decoration: none;
 border-radius: 50%;
 background-color: #333;
 font-size: 35px;
@@ -1032,7 +1055,12 @@ margin-left: 15px;
 }
 .vimeo{
 color: #bac964;
-padding:20px;
+display: inline-flex;
+ justify-content: center;
+ align-items: center;
+ height: 85px;
+ width: 85px;
+ text-decoration: none;
 border-radius: 50%;
 background-color: #333;
 font-size: 35px;
